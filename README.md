@@ -1,1 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ms2010gamer&show_icons=true&theme=gruvbox))](https://github.com/anuraghazra/github-readme-stats)
+# Nothing to see here...
+I'm brogrammer
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ms2010gamer&layout=compact&theme=dark)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ms2010gamer&theme=dark)
