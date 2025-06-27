@@ -1,6 +1,5 @@
-# Nothing to see here...
-I'm brogrammer
+ALL WE HAD TO DO WAS FOLLOW THE DAMN TRAIN CJ!!!!!!!!!
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ms2010gamer&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bigsmokeDev&layout=compact&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ms2010gamer&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=bigsmokeDev&theme=dark)
